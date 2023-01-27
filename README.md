@@ -15,6 +15,8 @@ My career took me in a different direction - toward the nonprofit education sect
 
 I subsequently developed a donor management/online registration system called DonorAdvance, an afterschool program management system called ProgramAdvance, and other CRM systems for mission driven organizations.
 
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/89041215/215188591-43cb0cb0-27c1-4a76-8f53-e0b39ee33498.png">
+
 I recently decided to take my programming skills to the next level. So I attended the Flatiron School where I earned a Certificate in Full Stack Engineering.
 
 My public GitHub repository contains some of the projects I developed at the Flatiron School as well as some of the projects I've worked on since graduatng. 
