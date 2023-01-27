@@ -3,6 +3,7 @@
 Hi. My name is Adam Lenter. Welcome to my GitHub repoitory.
 
 When I was 6 years old, my parents bought an Apple ]\[ computer for me and my brother. I soon learned how to create programs in the Basic programming language. My first program looked something like this:
+
 ![image](https://user-images.githubusercontent.com/89041215/215180373-55730f98-a0ed-4fb1-b631-1b9d3a7272ca.png)
 
 It wasn't much, but I knew the possibilities were endless. From there, I made text based adventure games, a simple drawing program, and lots of silly little programs.
