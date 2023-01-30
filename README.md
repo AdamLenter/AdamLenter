@@ -19,7 +19,7 @@ I subsequently developed a donor management/online registration system called Do
 
 I recently decided to take my programming skills to the next level. So I attended the Flatiron School where I earned a Certificate in Full Stack Engineering.
 
-My public GitHub repository contains some of the projects I developed at the Flatiron School as well as some of the projects I've worked on since graduatng. 
+My public GitHub repository contains some of the projects I developed at the Flatiron School as well as some of the projects I've worked on since graduatng. You can see video demonstrations of my projects here: https://www.youtube.com/@LenterProjectDemos.
 
 If you would like to connect, you can e-mail me at adamlenter1@gmail.com
 
